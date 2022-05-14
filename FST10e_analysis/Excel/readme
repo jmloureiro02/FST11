@@ -1,0 +1,5 @@
+Statistical analysis of the behaviour in different tracks, having previously used Kmeans algorithm in MATLAB.
+
+1) Kmeans Accuracy: Used to test MATLAB's Kmeans algorithm.
+
+2) Conducts the statistical analysis.
